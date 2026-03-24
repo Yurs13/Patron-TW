@@ -7,7 +7,7 @@
 // v= -> definir variables en metodo get
 // 7LD9 - wofjIs -> valor de la variable 
 
-$nombre = "Yurs";
+$nombre = "Yair";
 $apellido = "Rivera";
 $edad = "25 años";
 $estatura = "1.83";
@@ -18,6 +18,6 @@ $ojos = "cafes";
 $cejas = "pobladas";
 $pestañas = "largas";
 
-echo "Hola mundo" .$nombre + .$apellido + .$edad + .$estatura + .$peso + .$cabello + .$colorFav + .$ojos + .$cejas + .$pestañas;
-;
+echo "Hola mi nombre es " .$nombre . " " .$apellido . ", Tengo " .$edad . ", Mido " .$estatura . ", Peso " .$peso . ", El color de mi cabello es " .$cabello . ", Mi color favorito es " .$colorFav . ", el color de mis ojos " .$ojos . ", tengo cejas muy " .$cejas . " y tengo pestañas " .$pestañas;
+
 ?>
